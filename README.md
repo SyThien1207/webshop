@@ -20,3 +20,7 @@ Ngoài ra, việc sử dụng Laravel  trong đề tài này cũng giúp tôi n�
 *Blade*: một templating engine đơn giản nhưng mạnh mẽ được cung cấp bởi Laravel.
 
 *JavaScript*: ngôn ngữ lập trình được nhà phát triển sử dụng để tạo trang web tương tác. Từ làm mới bảng tin trên trang mạng xã hội đến hiển thị hình ảnh động và bản đồ tương tác, các chức năng của JavaScript có thể cải thiện trải nghiệm người dùng của trang web.
+## Các thành phần website
+### Giao diện quản trị
+**Quản lý sản phẩm**
+
