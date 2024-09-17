@@ -48,6 +48,7 @@ Ngoài ra, việc sử dụng Laravel  trong đề tài này cũng giúp tôi n�
 
 ### Giao diện người dùng
 **Trang chủ**
+
 ![image](https://github.com/user-attachments/assets/e208ee1b-565b-4d05-8a29-544bcf9e9544)
 ![image](https://github.com/user-attachments/assets/e0c6d841-b18b-4ff5-a5fe-ae147e0e6eb4)
 ![image](https://github.com/user-attachments/assets/8695823f-34c3-45cb-9728-01f8e1d550ff)
@@ -56,3 +57,29 @@ Ngoài ra, việc sử dụng Laravel  trong đề tài này cũng giúp tôi n�
 ![image](https://github.com/user-attachments/assets/076c0e17-8772-4a29-83c8-c73bc5f965ce)
 ![image](https://github.com/user-attachments/assets/817c4643-5ecb-46e2-93f8-6d881b7120ce)
 ![image](https://github.com/user-attachments/assets/7fcfff03-d6b1-4d62-b097-0ee292a69e58)
+
+**Trang sản phẩm**
+
+![image](https://github.com/user-attachments/assets/0a738f11-f320-4063-b50f-c4aee52c2220)
+
+**Trang chi tiết sản phẩm**
+
+![image](https://github.com/user-attachments/assets/d0db2560-b602-46da-a0c5-6199a0703c0f)
+![image](https://github.com/user-attachments/assets/c39fd0d4-259d-4661-ab34-3feb4f65a6d2)
+![image](https://github.com/user-attachments/assets/713701b7-1514-44fa-9ddb-34b64f6a3776)
+
+**Trang giỏ hàng**
+
+![image](https://github.com/user-attachments/assets/abbac311-0f29-4d4b-9edb-4cc8a8c08122)
+
+**Trang thanh toán**
+
+![image](https://github.com/user-attachments/assets/3459c1a8-01cc-486d-883d-b185c6545c49)
+
+**Trang theo dõi đơn hàng**
+
+![image](https://github.com/user-attachments/assets/1b36b7a4-1ed4-42ff-a7bf-fcff250acc96)
+
+**Trang thông tin cá nhân**
+
+![image](https://github.com/user-attachments/assets/e56cd79d-bfde-46e8-b03a-f067c1dac687)
