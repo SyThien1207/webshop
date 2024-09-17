@@ -24,3 +24,20 @@ Ngoài ra, việc sử dụng Laravel  trong đề tài này cũng giúp tôi n�
 ### Giao diện quản trị
 **Quản lý sản phẩm**
 
+![image](https://github.com/user-attachments/assets/47ea3e3c-3ad7-4845-9a5a-c04d22b53add)
+
+**Quản lý danh mục sản phẩm**
+
+![image](https://github.com/user-attachments/assets/c0dde81c-d9db-41ce-9c36-9f471793f4a5)
+
+**Quản lý thương hiệu sản phẩm**
+
+![image](https://github.com/user-attachments/assets/8760b7b2-b734-4ae6-9428-54ceca688706)
+
+**Quản lý đơn hàng**
+
+![image](https://github.com/user-attachments/assets/16e132e0-c3de-4456-adf1-9d35c0770316)
+
+**Quản lý bài viết**
+
+![image](https://github.com/user-attachments/assets/a28ade64-047c-45f6-a61c-cfcf69b29fe8)
